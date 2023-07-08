@@ -3,4 +3,4 @@ hyderabad
 mumbai
 delhi
 bangeluru
-vizag
+vizag is capital
