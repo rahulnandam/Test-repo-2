@@ -5,7 +5,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   
   <modelVersion>4.0.0</modelVersion>  
   <groupId>com.javatpoint.application1</groupId>  
-  <artifactId>Artifact-rahulnandam</artifactId>  
+  <artifactId>-rahulnandam</artifactId>  
   <version>v1</version>  
   
 </project>  
